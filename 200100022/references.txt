@@ -1,0 +1,3 @@
+Batched Multi Arm Gradient (reading) : https://arxiv.org/abs/1904.01763?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529 
+Numpy Functions Documentation : https://numpy.org/doc/stable/
+Course Lecture Slides : https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html 
