@@ -1,0 +1,2 @@
+(1) Improve the speed of Value Iteration
+(2) Decide on a good number of iterations for convergence in Value Iteration 
